@@ -3,6 +3,7 @@
 
 Beginner Python
 https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN
+
 Intermediate Python
   1. Numpy
       https://www.youtube.com/watch?v=MDA8SbfdLKA
