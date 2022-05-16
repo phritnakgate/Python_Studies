@@ -20,3 +20,6 @@ https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN
       
       คอร์ส Python for Real-World Projects โดย Kongruksiam
       https://www.udemy.com/course/python-real-world-projects/
+  **4. Pandas🐼**
+      
+      https://www.youtube.com/watch?v=SPdwqEPZ_EE
