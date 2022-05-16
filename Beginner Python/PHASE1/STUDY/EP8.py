@@ -1,0 +1,11 @@
+#ตัวดำเนินการทางคณิตศาสตร์
+num1 = float(input("Please input your first number: "))
+num2 = float(input("Please input your second number: "))
+print("Sum is: ", num1+num2)
+print("Minus is: ", num1-num2)
+print("Multiply is: ", num1*num2)
+print("Divide is: ", num1/num2)
+print("R from Division is: ", num1%num2)
+print("No R is: ", num1//num2)
+print("Square of num1 is: ", num1**2)
+print("Square of num2 is: ", num2**2)
