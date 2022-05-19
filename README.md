@@ -23,3 +23,7 @@ https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN
   **4. Pandas🐼**
       
       https://www.youtube.com/watch?v=SPdwqEPZ_EE
+
+  **5. Matpotlib📊**
+  
+      Soon
