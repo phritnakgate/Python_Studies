@@ -26,4 +26,4 @@
 
   **5. Matpotlib📊**
   
-      Soon
+   - [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=MIaO3atFaGM)
