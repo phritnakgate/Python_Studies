@@ -27,6 +27,6 @@
       
    - [สอน Python & Pandas | สำหรับจัดการและวิเคราะห์ข้อมูล](https://www.youtube.com/watch?v=SPdwqEPZ_EE)
 
-  **3. Matpotlib📊**
+  **3. Matplotlib📊**
   
    - [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=MIaO3atFaGM)
