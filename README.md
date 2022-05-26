@@ -30,3 +30,8 @@
   **3. Matplotlib📊**
   
    - [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=MIaO3atFaGM)
+
+## Applied Python w(ﾟДﾟ)w
+  **Machine Learning🤖**
+    
+   - [Python & Machine Learning เบื้องต้น 12 ชั่วโมงเต็ม](https://www.youtube.com/watch?v=kUF5hPfQWaQ&t=2s)
