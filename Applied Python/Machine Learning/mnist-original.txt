@@ -1,0 +1,2 @@
+Download Full MNIST (.mat) Size 52MB
+https://osf.io/jda6s/
