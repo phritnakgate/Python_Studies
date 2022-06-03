@@ -22,8 +22,6 @@
       
   - [Numpy Tutorial](https://www.youtube.com/watch?v=MDA8SbfdLKA)
   
-  - [100+ Numpy Problems](https://www.udemy.com/course/100-exercises-python-programming-data-science-numpy/)
-  
   **2. Pandas🐼**
       
    - [Pandas Tutorial](https://www.youtube.com/watch?v=SPdwqEPZ_EE)
