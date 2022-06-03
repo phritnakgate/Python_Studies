@@ -1,7 +1,8 @@
 # 🐍Python_Studies🐍
-**Ref. การเรียน Python ใน repo ทั้งหมด**
+**About my Python study, I often study with Kongruksiam on Youtube.**
 ## Beginner Python(*￣▽￣*)ブ
-[เรียน Python พื้นฐานตั้งแต่เขียนไม่เป็นกับ KongRuksiam](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
+
+- [Beginner Python](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
 
 ## Intermediate Python(￣▽￣)"
   
@@ -9,29 +10,29 @@
   
    **1. Tkinter🖥️**
       
-   - [คอร์ส Python for Real-World Projects โดย Kongruksiam](https://www.udemy.com/course/python-real-world-projects/)
+   - [Python for Real-World Projects By...Kongruksiam](https://www.udemy.com/course/python-real-world-projects/)
   
   **2. OOP_Python🔭**
       
-   - [คอร์ส Python for Real-World Projects โดย Kongruksiam](https://www.udemy.com/course/python-real-world-projects/)
+   - [Python for Real-World Projects By...Kongruksiam](https://www.udemy.com/course/python-real-world-projects/)
   
   ### Data Science / Visualization
   
   **1. Numpy🧮**
       
-  - [ปูพื้นฐานการใช้ Python ร่วมกับ NumPy | สำหรับงาน Data Science](https://www.youtube.com/watch?v=MDA8SbfdLKA)
+  - [Numpy Tutorial](https://www.youtube.com/watch?v=MDA8SbfdLKA)
   
   - [100+ Numpy Problems](https://www.udemy.com/course/100-exercises-python-programming-data-science-numpy/)
   
   **2. Pandas🐼**
       
-   - [สอน Python & Pandas | สำหรับจัดการและวิเคราะห์ข้อมูล](https://www.youtube.com/watch?v=SPdwqEPZ_EE)
+   - [Pandas Tutorial](https://www.youtube.com/watch?v=SPdwqEPZ_EE)
 
   **3. Matplotlib📊**
   
-   - [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=MIaO3atFaGM)
+   - [Matplotlib Tutorial](https://www.youtube.com/watch?v=MIaO3atFaGM)
 
 ## Applied Python w(ﾟДﾟ)w
   **Machine Learning🤖**
     
-   - [Python & Machine Learning เบื้องต้น 12 ชั่วโมงเต็ม](https://www.youtube.com/watch?v=kUF5hPfQWaQ&t=2s)
+   - [Fundamental Python & Machine Learning](https://www.youtube.com/watch?v=kUF5hPfQWaQ&t=2s)
